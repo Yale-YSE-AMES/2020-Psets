@@ -1,2 +1,2 @@
 # Pset2
-Submit answers to Pset 2. Also download crazy function from here.
+Submit answers to all Psets. Also download crazy function and other files.
